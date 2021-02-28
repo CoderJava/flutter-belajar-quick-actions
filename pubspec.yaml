@@ -29,6 +29,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.1
 
+  # Flutter plugin for creating shortcuts on home screen, also known as Quick Actions on iOS and
+  # App Shortcuts on Android.
+  quick_actions: ^0.4.0+10
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
